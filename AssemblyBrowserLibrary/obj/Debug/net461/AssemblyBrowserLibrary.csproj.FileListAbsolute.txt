@@ -1,0 +1,9 @@
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\bin\Debug\net461\AssemblyBrowserLibrary.dll
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\bin\Debug\net461\AssemblyBrowserLibrary.pdb
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net461\AssemblyBrowserLibrary.csprojAssemblyReference.cache
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net461\AssemblyBrowserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net461\AssemblyBrowserLibrary.AssemblyInfoInputs.cache
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net461\AssemblyBrowserLibrary.AssemblyInfo.cs
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net461\AssemblyBrowserLibrary.csproj.CoreCompileInputs.cache
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net461\AssemblyBrowserLibrary.dll
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net461\AssemblyBrowserLibrary.pdb

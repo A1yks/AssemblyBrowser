@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=E_003A_005Clabs2021_005Cmpp_005Clab2_005CAssemblyBrowser_005CAssemblyBrowserLibrary_005Cbin_005CDebug_005Cnet5_002E0_005CAssemblyBrowserLibrary_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\bin\Debug\net5.0\AssemblyBrowserLibrary.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=10cb3d5c_002D2581_002D4c3e_002D8b7b_002Db44ec227d218/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAssemblyName #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BEE1ABB5-5510-4E85-8EB7-AA0D21A0ED1B::net5.0::Tests.Tests.TestAssemblyName&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a918f29e_002D2b16_002D4aa6_002D8a3b_002D0dc8eb36de33/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAssemblyName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BEE1ABB5-5510-4E85-8EB7-AA0D21A0ED1B::net5.0::Tests.Tests.TestAssemblyName&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

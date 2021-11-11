@@ -1,0 +1,12 @@
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\bin\Debug\net5.0\AssemblyBrowserLibrary.deps.json
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\bin\Debug\net5.0\AssemblyBrowserLibrary.dll
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\bin\Debug\net5.0\ref\AssemblyBrowserLibrary.dll
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\bin\Debug\net5.0\AssemblyBrowserLibrary.pdb
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\AssemblyBrowserLibrary.csprojAssemblyReference.cache
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\AssemblyBrowserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\AssemblyBrowserLibrary.AssemblyInfoInputs.cache
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\AssemblyBrowserLibrary.AssemblyInfo.cs
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\AssemblyBrowserLibrary.csproj.CoreCompileInputs.cache
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\AssemblyBrowserLibrary.dll
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\ref\AssemblyBrowserLibrary.dll
+E:\labs2021\mpp\lab2\AssemblyBrowser\AssemblyBrowserLibrary\obj\Debug\net5.0\AssemblyBrowserLibrary.pdb

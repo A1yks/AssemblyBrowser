@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj",
+        "projectName": "AssemblyBrowserLibrary",
+        "projectPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowser\\AssemblyBrowser.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowser\\AssemblyBrowser.csproj",
+        "projectName": "AssemblyBrowser",
+        "projectPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowser\\AssemblyBrowser.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj": {
+                "projectPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj": {
+                "projectPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj"
+              },
+              "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowser\\AssemblyBrowser.csproj": {
+                "projectPath": "E:\\labs2021\\mpp\\lab2\\AssemblyBrowser\\AssemblyBrowser\\AssemblyBrowser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
